@@ -1,0 +1,9 @@
+{
+  "name": "@1hive/apps-conviction-voting",
+  "version": "1.0.0-beta.1",
+  "description": "",
+  "devDependencies": {
+    "@aragon/truffle-config-v5": "^1.0.0"
+  },
+  "dependencies": {}
+}

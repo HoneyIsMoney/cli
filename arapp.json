@@ -1,0 +1,26 @@
+{
+  "environments": {
+    "default": {
+      "network": "rpc",
+      "appName": "placeholder.open.aragonpm.eth"
+    },
+    "rinkeby": {
+      "registry": "0x98df287b6c145399aaa709692c8d308357bc085d",
+      "appName": "placeholder.open.aragonpm.eth",
+      "wsRPC": "wss://rinkeby.infura.io/ws/v3/b4d9f393413d42a381bd955a310fbb66",
+      "network": "rinkeby"
+    },
+    "mainnet": {
+      "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
+      "appName": "placeholder.open.aragonpm.eth",
+      "wsRPC": "wss://mainnet.infura.io/ws/v3/b4d9f393413d42a381bd955a310fbb66",
+      "network": "mainnet"
+    },
+    "xdai": {
+      "registry": "0xaafca6b0c89521752e559650206d7c925fd0e530",
+      "appName": "placeholder.aragonpm.eth",
+      "wsRPC": "wss://xdai.poanetwork.dev/wss",
+      "network": "xdai"
+    }
+  }
+}
